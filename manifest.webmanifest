@@ -1,0 +1,9 @@
+{
+  "name": "TOFFEE",
+  "short_name": "TOFFEE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eaf5ff",
+  "theme_color": "#8fc7f5",
+  "icons": []
+}
